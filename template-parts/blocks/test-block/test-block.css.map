@@ -1,0 +1,1 @@
+{"version":3,"sources":["test-block/test-block.scss"],"names":[],"mappings":"AAAA,YACI,iBAAA","file":"test-block.css","sourcesContent":[".test-block {\r\n    background-color: red($color: #000000);\r\n}"]}
