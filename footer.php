@@ -13,6 +13,7 @@
 
 	<footer id="colophon" class="site-footer">
 		<div class="site-info">
+			<h1>add some custom code</h1>
 			<a href="<?php echo esc_url( __( 'https://wordpress.org/', 'custom_theme' ) ); ?>">
 				<?php
 				/* translators: %s: CMS name, i.e. WordPress. */
